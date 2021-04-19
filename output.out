@@ -1,0 +1,14 @@
+ MSECTION           5
+  
+ DIAMETERS           2   2.4996222370306822     
+ DIAMETERS           3   3.0959379608325577     
+ DIAMETERS           4   3.8345121576090402     
+ DIAMETERS           5   4.7492823412060510     
+Time =,    0.00E+000,   SUM AGG,   0.00E+000,   SUM PP,   0.00E+000,  MEAN DIAMETER,   3.05E-314
+Time =,    1.00E-006,   SUM AGG,   5.00E-020,   SUM PP,   5.00E-020,  MEAN DIAMETER,   3.24E+000
+  
+Time =,    2.00E-006,   SUM AGG,         NaN,   SUM PP,         NaN,  MEAN DIAMETER,         NaN
+  
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ the new aggregates:           9.9999999999999995E-021   9.9999999999999995E-021                       NaN   9.9999999999999995E-021   9.9999999999999995E-021
+ the new primary particles:    9.9999999999999995E-021   9.9999999999999995E-021   9.9999999999999964E-021                       NaN   9.9999999999999995E-021
